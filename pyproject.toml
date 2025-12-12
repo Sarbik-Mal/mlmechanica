@@ -12,9 +12,9 @@ license = {file = "LICENSE"}
 
 authors = [
   {name = "Sarbik Mal", email = "sarbikjob1999@gmail.com"}
+]
 
 keywords = ["machine learning", "education", "linear regression", "transparent ai", "numpy"]
-]
 
 classifiers = [
   "Development Status :: 3 - Alpha",
@@ -27,7 +27,7 @@ classifiers = [
   "Programming Language :: Python :: 3.11",
   "Programming Language :: Python :: 3.12",
   "Programming Language :: Python :: 3.13",
-  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence"
 ]
 
 dependencies = [
