@@ -1,12 +1,11 @@
-from .linear.simple import SimpleLinearRegression
-from .linear.multiple import MultipleLinearRegression
-from .linear.lasso import LassoRegression
-from .linear.ridge import RidgeRegression
+from .linear import SimpleLinearRegression
+from .linear import MultipleLinearRegression
+from .linear import LassoRegression
+from .linear import RidgeRegression
 
 __all__ = [
     'SimpleLinearRegression',
     'MultipleLinearRegression',
     'LassoRegression',
-    'RidgeRegression',
+    'RidgeRegression'
 ]
-
